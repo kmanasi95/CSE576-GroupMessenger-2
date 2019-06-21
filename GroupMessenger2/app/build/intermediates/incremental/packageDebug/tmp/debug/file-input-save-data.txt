@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 14 23:28:40 EDT 2019
+0.baseType=DIRECTORY
+0.base=/Users/manasikulkarni/Documents/UB/Academics/SEM2/CSE586DS/Projects/PA2B/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
